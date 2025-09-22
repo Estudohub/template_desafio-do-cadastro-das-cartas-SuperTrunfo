@@ -3,7 +3,6 @@
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das cartas
-
 int main() {
     // Carta 1
     char Estado1[50];
@@ -68,6 +67,14 @@ int main() {
     printf("Pontos turisticos: %d\n", Pontos_turisticos2);
     printf("Densidade populacional: %.2f hab/km2\n", Densidade_populacional);
     printf("PIB per capita: %.2f\n", Pib_per_capita);
+
+
+ 
+
+
+
+
+
 
     return 0;
 }
